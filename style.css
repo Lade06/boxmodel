@@ -1,0 +1,26 @@
+.container{
+    width: 200px;
+    background-color: rgb(7, 78, 170);
+    padding: 20px;
+    border: 10px solid black;
+}
+.container1{
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+    margin-left: 260px;
+    padding: 20px;
+    border-top: 20px solid black;
+    border-right: 10px solid black;
+    border-bottom: 20px solid black;
+    border-left: 10px solid black;
+    
+}
+.container2{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(97, 1, 60);
+    padding: 20px;
+    border: 7px solid black;
+    margin-left: 57px;
+}
